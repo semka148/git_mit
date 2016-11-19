@@ -13,6 +13,7 @@ ul.navbar {
   left: 1em;
   width: 9em }
 h1 {
+color: red;
   font-family: Helvetica, Geneva, Arial,
         SunSans-Regular, sans-serif }
 ul.navbar li {
